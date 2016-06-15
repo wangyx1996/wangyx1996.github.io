@@ -4,10 +4,6 @@
 
 [CONTENTS](navigation.md)
 
-[MATHEMATICS]()
-
-* [Stein's Method](math/stein_method.md)
-* [Levy Processes](math/levy_processes.md)
 
 
 [ENGLISH STUDY]()
