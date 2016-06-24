@@ -1,108 +1,39 @@
-## 英语公式
+# 钟平机械化英语第一、二讲笔记
 
-#### `英文 (状1) 主 (定1) 谓 (状2) [宾] (定2/状1)`
+## 第一讲
 
-#### `中文 (状1/定1) 主 (状2) 谓 (定2) (宾) (状1)`
+### 在翻译的过程中，有一个特定的公式满足将英文转换为中文。
 
-**Remark:** 状2可以理解为小状语
+### 在学语言中，语法，发音，字符都不是主要关键。
 
-**例：**在北京，没有钱的年轻人以这种方式也能实现他们心中的梦想。
+### 对于不同的语言，比如中文与英语，不同之处就是词的排序不同。相同的词，排序不一样，意思也不一样。
 
-In beijing, the young without money can realize in this way the dreams in their hearts.
+### 在翻译英语中的几个要点
 
-① I know the man who is singing.
+#### 1.倒序
 
-② I know the man who is singing in the car.
+#### 2.并列不倒序
 
-**例：**虽然没有在世界范围内被广泛接受，但是在日常事务中情感懦弱的人们经常是那些在他们经历的一生中不能够实现任何丰硕成就的失败者。
+### 注：“并列不倒序”中的并列指的是两个不同层次之间的。
 
-Although not so world widely accepted,people who are emotionally weak in daily business are often losers who are not able to fulfill any fruitful achievements in their lifetime that they endure.
+* * *
 
-**成分分析：**
+## 第二讲
 
-(状1)[Although not so world widely accepted,] 主[people] (定1)[1) who are emotionally weak 2) in daily business] 谓[are] (状2)[often] [宾][losers] (定2)[1) who are not able to fulfill any fruitful achievements 2) in their lifetime 3) that they endure.]
+### 同一语言中，排序是固定的。翻译寻找的是不同语言之间，他们逻辑排序的转换方式，相比于这个，语法之类的都是次要的。
 
-**例：**Science has to do with discovering the facts and relationships between observable phenomenon in nature and with establishing theories that serve to organize these facts and relations.                     科学｜同自然界中｜能被观测到的现象之间｜发现他们的事实和关联｜有关
-同时呢 同有助于组织这些事实和关联的｜理论的建立｜也有关
+### 例：I love my father, who is good to me.
 
-**并列 转折 选择 递进**
+### I love girls who have long hairs.
 
-and; both...and; not only...but also; while but; yet; while; however or; either or; neither nor; moreover; from to;
+### 上述两个例子在语法中一个叫非限制定语从句，另一个叫限制定语从句。为什么这两者会有不同？从语言逻辑上来讲很容易理解。人只有一个父亲，若第一句中没有逗号，那个这句话的意思就是“我喜欢那个对我好的父亲”，有着严重的语言逻辑错误。反观第二句的意思是“我喜欢长头发的女孩”就没有这种逻辑错误。
 
-`A. 定义: 双黄蛋=句+句`
+### 我们还可以发现，换词不会影响句子的结构。
 
-I love you and I hate you.
+### 例：I love boys who have long legs.
 
-`B. 三种形式：关联词的前后是完整的句子(主+谓)`
+### ---------------------------------------
 
-I love you and I hate you. 
+### 介词：on, off, in, to
 
-Although I love you, you hate me.
-
-I love you, you love me as well.
-
-I love you, because I hate you.
-
-**例：**His thesis works relatively well when applied to discrimination against Blacks in the United States but his definition of a group of ethnic competition also includes hostility toward such ethnic groups as the Chinese in California and the Jews in medieval Europe.
-
-**分析：**
-**[主]**His thesis **[谓]**works relatively well **[小状]**when **1)**applied **2)**to discrimination **3)**against Blacks **4)**in the United States     **[并列]**but **[主]**his definition of a group of ethnic competition **[谓]**also includes **[宾]**hostility toward such ethnic groups as the Chinese in California and the Jews in medieval Europe.
-
-他的论文在美国针对黑人歧视被采用时是相对有效的，但是他的针对有种族竞争的群体的定义，包括针对像在加利福尼亚的中国人以及在中世纪欧洲的犹太人种族群体的敌意。
-
-#### `三种基本框架`
-
-**1.  介词短语 in the morning**
-
-**2.  分词结构**
-
-**3.  从句**
-
-**例：**an element **1**[in national economic life] **2**[representing the irresponsible wealth] **3**[detached] **4**[from the land and the duties] **5**[of the land owners] **6**[and almost equally detached] **7**[from the responsible management] **8**[of commercial business conduct.]
-
-英语句子结构： n+12345678
-其中（345）和（678）并列
-
-**根据**
-**1.  倒序**
-**2.  并列不变序**
-
-设（345）=x,(678)=y
-
---&gt;&gt;句子结构变为：n+12+x+y
-
-翻译为中文后的结构：
-
-x+y+21+n
---&gt;&gt; 543+876+21+n
-
-#### **区别定语从句和非限定性定语从句：**
-
-I love my father, who is good to me.
-
-我爱我的爸爸，他对我很好。（只有一个爸爸）
-
-I love my father who is good to me.
-
-我爱那个对我好的爸爸。（潜义词可能不止一个爸爸）
-
-I love girls who have long hair.
-
-我喜欢长头发的女生。（对喜欢的女生进行限定）
-
-#### **三个介词的区分：**
-
- `on 接触
-off 脱离
-to 距离跨越`
-
-**例：**land on 降落
-take off 起飞
-
-**例：**Beijing is in the north of China.
-
-  Mongolia is on the north of China.
-
-Japan is off the east of China.
-
-Britain is to the north of China.
+### on在英文逻辑中表接触的意思，例如land on，接触地面降落的意思；off表示的是脱离的意思，take off，起飞；in表示包含，"beijing is in the north of China"；to表示距离的跨越,"Britain is to the north of China"。
