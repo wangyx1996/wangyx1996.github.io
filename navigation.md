@@ -14,6 +14,7 @@
 *   [Chapter 15 and 16](english/note15&amp;16.md)
 *   [Chapter 17 and 18](english/note17&amp;18.md)
 *   [Chapter 19 and 20 and 21](english/note19-21.md)
+*   [色彩标注法](english/Colorful Equations with MathJax.md)
 
 [人间词话]()
 
@@ -26,7 +27,7 @@
 &lt;script type="text/x-mathjax-config"&gt;
   MathJax.Hub.Config({
     tex2jax: {
-      inlineMath: [ ['$','$'], ["\(","\)"] ],
+      inlineMath: [ ['$','$'], ["(",")"] ],
       processEscapes: true
     }
   });
