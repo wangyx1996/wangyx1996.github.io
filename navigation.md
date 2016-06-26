@@ -5,7 +5,7 @@
 [英文观止]()
 
 *   [lessom1-2](english/note1&amp;2.md)
-*   [lesson3-4](english/note3&amp;4md)
+*   [lesson3-4](english/note3&amp;4.md)
 *   [lesson5-6](english/note5&amp;6.md)
 *   [lesson7-8](english/note7&amp;8.md)
 *   [lesson9-10](english/note9&amp;10.md)
@@ -25,38 +25,3 @@
 
 [gimmick:theme](yeti)
 [gimmick: math]()
-
-
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
-</script>
-
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-      tex2jax: {
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-      }
-    });
-</script>
-
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Queue(function() {
-        var all = MathJax.Hub.getAllJax(), i;
-        for(i=0; i < all.length; i += 1) {
-            all[i].SourceElement().parentNode.className += ' has-jax';
-        }
-    });
-</script>
-
-<script type="text/javascript"
-   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({ TeX: { extensions: ["color.js"] }});
-</script>
